@@ -1,0 +1,245 @@
+{
+  "title": "CBN18-ENABLE - Enabling Neuroscience research Approaches for Brain, feeLings and Emotions",
+  "description": "More than 350 million people worldwide live with depression and bipolar disorders, yet finding the right treatment often involves trial and error. Advancing precision psychiatry requires large, standardized datasets that reflect real-world populations. The Enabling Neuroscience research Approaches for Brain, feeLings and Emotions (ENABLE) was developed in partnership with patients and supported by the CAN-BIND Network, Brain Canada and the Ontario Brain Institute. The baseline release will include data from over 400 participants with major depressive disorder and bipolar disorder across nine sites in Canada. Available datasets will include structural MRI neuroimaging, clinical and psychiatric history, demographics (including sex, age, gender diversity, and socioeconomic status), patient health questionnaires, work and social adjustment scales, quality-of-life indicators, Structured Clinical Interviews for DSM Disorders (SCID), and the Quick Inventory of Depressive Symptomatology (QIDS).",
+  "dates": [
+    {
+      "date": "2023-10-17 00:00:00",
+      "type": {
+        "value": "start date"
+      }
+    },
+    {
+      "date": "2025-11-16 00:00:00",
+      "type": {
+        "value": "end date"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "name": "Ontario Brain Institute",
+      "abbreviation": "OBI",
+      "location": {
+        "name": "Toronto",
+        "postalAddress": "1 Richmond Street West"
+      }
+    }
+  ],
+  "types": [
+    {
+      "information": {
+        "value": "Bipolar Disorder"
+      }
+    },
+    {
+      "information": {
+        "value": "Depression"
+      }
+    },
+    {
+      "information": {
+        "value": "Neuroimaging"
+      }
+    },
+    {
+      "information": {
+        "value": "Biomarkers"
+      }
+    },
+    {
+      "information": {
+        "value": "Clinical Phenotyping"
+      }
+    },
+    {
+      "information": {
+        "value": "Mood Disorders"
+      }
+    }
+  ],
+  "version": "1.0",
+  "privacy": "controlled",
+  "licenses": [
+    {
+      "name": "Refer to Brain-CODE Governance Policy"
+    }
+  ],
+  "distributions": [
+    {
+      "formats": [
+        "CSV",
+        "JSON",
+        "NIfTI"
+      ],
+      "size": 2.78,
+      "unit": {
+        "value": "GB"
+      },
+      "access": {
+        "landingPage": "https://www.braincode.ca/",
+        "authorizations": [
+          {
+            "value": "registered"
+          }
+        ]
+      }
+    }
+  ],
+  "isAbout": [
+    {
+      "name": "Homo sapiens",
+      "identifier": {
+        "identifier": "https://www.ncbi.nlm.nih.gov/taxonomy/9606",
+        "identifierSource": "NCBI Taxonomy Database"
+      }
+    }
+  ],
+  "spatialCoverage": [
+    {
+      "name": "Canada"
+    }
+  ],
+  "aggregation": "instance of dataset",
+  "acknowledges": [
+    {
+      "name": "Grants",
+      "funders": [
+        {
+          "name": "Ontario Brain Institute",
+          "abbreviation": "OBI",
+          "location": {
+            "name": "Toronto",
+            "postalAddress": "1 Richmond Street West"
+          }
+        },
+        {
+          "name": "Government of Ontario"
+        },
+        {
+          "name": "Government of Canada"
+        },
+        {
+          "name": "Brain Canada Foundation"
+        },
+        {
+          "name": "Janssen R&D"
+        },
+        {
+          "name": "CAN-BIND Solutions"
+        },
+        {
+          "name": "Canada Brain Research Fund",
+           "abbreviation": "CBRF"
+        },
+        {
+          "name": "Health Canada"
+        },
+        {
+          "name": "Canadian Biomarker Integration Network for Depression (CAN-BIND)"
+        }
+      ]
+    }
+  ],
+  "keywords": [
+    {
+      "value": "Bipolar Disorder"
+    },
+    {
+      "value": "Depression"
+    },
+    {
+      "value": "Neuroimaging"
+    },
+    {
+      "value": "Biomarkers"
+    },
+    {
+      "value": "Clinical Phenotyping"
+    },
+    {
+      "value": "Mood Disorders"
+    }
+  ],
+  "extraProperties": [
+    {
+      "category": "subjects",
+      "values": [
+        {
+          "value": "509"
+        }
+      ]
+    },
+    {
+      "category": "files",
+      "values": [
+        {
+          "value": "538"
+        }
+      ]
+    },
+    {
+      "category": "CONP_status",
+      "values": [
+        {
+          "value": "Canadian"
+        }
+      ]
+    },
+    {
+      "category": "origin_institution",
+      "values": [
+        {
+          "value": "Ontario Brain Institute"
+        }
+      ]
+    },
+    {
+      "category": "origin_city",
+      "values": [
+        {
+          "value": "Toronto"
+        }
+      ]
+    },
+    {
+      "category": "origin_province",
+      "values": [
+        {
+          "value": "Ontario"
+        }
+      ]
+    },
+    {
+      "category": "origin_country",
+      "values": [
+        {
+          "value": "Canada"
+        }
+      ]
+    },
+    {
+      "category": "logo",
+      "values": [
+        {
+          "value": "https://www.braincode.ca/sites/default/files/dr008_logo_cbn.png"
+        }
+      ]
+    },
+    {
+      "category": "contact",
+      "values": [
+        {
+          "value": "Brain-CODE, datarelease@braincode.ca"
+        }
+      ]
+    },
+    {
+      "category": "REB_statement",
+      "values": [
+        {
+          "value": "In submitting this dataset for inclusion, I declare that participants have provided a valid informed consent to the de-identification and deposit of their data in an open-access portal."
+        }
+      ]
+    }
+  ]
+}
